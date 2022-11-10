@@ -5,5 +5,6 @@ Repositorio de los grupos 367, 368, 369
 - Agustin Alorda
 - Marcelo Casse
 - Sequeira Alejo
-- Brian Rebord :D Aloha
-- Pedro Bonnin
+- Brian Rebord :D TESTING
+- Pedro Bonnin.
+- Carlos M.
