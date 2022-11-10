@@ -5,9 +5,5 @@ Repositorio de los grupos 367, 368, 369
 - Agustin Alorda
 - Marcelo Casse
 - Sequeira Alejo
-<<<<<<< HEAD
-- Brian Rebord...
-=======
-- Brian Rebord :D
+- Brian Rebord :D Aloha
 - Pedro Bonnin
->>>>>>> main
