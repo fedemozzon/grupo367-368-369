@@ -9,3 +9,4 @@ Repositorio de los grupos 367, 368, 369
 - Brian Rebord :D AloAlo
 - Pedro Bonnin.
 - Carlos M.
+- Damian I.
