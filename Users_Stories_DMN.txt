@@ -1,0 +1,36 @@
+			Historias de usuario
+			***********************
+
+Ejemplo de historia de usuario nro. 1:
+---------------------------------------------------
+						Como cliente recuerente y usuario del Banco, espero que mi información 
+en cuento al uso del cajero ATM y mi dificultad con ella se tenga en cuenta para la mejora al momento de extracción 
+de dinero por parte de personas de mayor edad como yo.
+
+
+
+Ejemplo de historia de usuario nro. 2:
+----------------------------------------------------
+						Como usuario quisiera conseguir recuperar mis datos guardados
+e información importante con una palicación de facil usabilidad.
+
+
+
+Ejemplo de historia de usuario nro. 3:
+----------------------------------------------------
+						Como gerente de producto quisiera lograr una manera simple en
+que los usuarios de la plataforma  consigan hacer su primera inversion en activos digitales.
+
+
+
+Ejemplo de historia de usuario nro. 3:
+----------------------------------------------------
+						Como usuario frecuente de la aplicación, quiero una forma de visualizar 
+toda la información de mis inversiones en una sola aplicación.
+
+
+
+Ejemplo de historia de usuario nro. 4:
+----------------------------------------------------
+						Como cliente con necesidades especiales por disminución visual, 
+quisiera poder lograr una mejor experiencia al momento de leer por las noches.
